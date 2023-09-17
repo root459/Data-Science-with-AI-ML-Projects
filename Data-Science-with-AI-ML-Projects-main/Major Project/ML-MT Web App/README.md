@@ -46,7 +46,7 @@ A deep learning model will be developed to analyze chest X-ray images for the de
 These future enhancements will expand the capabilities of the ML-MT web app, providing users with additional tools for disease diagnosis and detection.
 
 ### Contributors
-Shyam Singh - Project Lead and Developer
+Yuvraj Singh Rathore - Project Lead and Developer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
